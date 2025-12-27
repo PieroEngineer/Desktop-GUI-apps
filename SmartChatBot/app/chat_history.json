@@ -1,0 +1,26 @@
+[
+    {
+        "role": "user",
+        "content": "Cuando esta programado la indisponibilidad de la linea L-5001 en diciembre.?"
+    },
+    {
+        "role": "assistant",
+        "content": "He recibido los datos del pro\u2011algoritmo y aqu\u00ed tienes la interpretaci\u00f3n:\n\nPara **CL\u20115001**, se registra una indisponibilidad por mantenimiento programado el **28 de diciembre de 2025**, desde las **00:00** hasta las **08:00**.  \n\nPara **L\u20115001**, la indisponibilidad inicia el **27 de diciembre de 2025** a las **22:00** y se extiende hasta el **28 de diciembre de 2025** a las **10:00**.\n\nAmbas intervenciones corresponden al mes de **diciembre**, y los rangos indican claramente las ventanas de mantenimiento en las que estos equipos estar\u00e1n indisponibles."
+    },
+    {
+        "role": "user",
+        "content": "Cuando se tiene programado la indisponibilidad de la L-2240 en noviembre.?"
+    },
+    {
+        "role": "assistant",
+        "content": "No se recibi\u00f3 informaci\u00f3n del pro\u2011algoritmo correspondiente a **L\u20115001** (solo lleg\u00f3 un registro para **L\u20112240**, que no coincide en numeraci\u00f3n).  \n\nPor lo tanto, **no hay nuevos datos que actualizar** respecto a la indisponibilidad de **L\u20115001** en diciembre dentro de esta \u00faltima respuesta del pro\u2011algoritmo."
+    },
+    {
+        "role": "user",
+        "content": "Se tiene programado corte de Juliaca en noviembre."
+    },
+    {
+        "role": "assistant",
+        "content": "No se recibi\u00f3 ninguna informaci\u00f3n nueva del pro\u2011algoritmo sobre **L\u20112240** ni sobre indisponibilidades en **noviembre**.\n\n**El pro\u2011algoritmo no devolvi\u00f3 datos**, por lo que **no hay registros de indisponibilidad programada** para la L\u20112240 en noviembre dentro de esta actualizaci\u00f3n."
+    }
+]
